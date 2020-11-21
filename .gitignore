@@ -1,5 +1,7 @@
 node_modules/
 .node_modules/
+.cache/
+dist/*
 built/*
 tests/cases/rwc/*
 tests/cases/test262/*
